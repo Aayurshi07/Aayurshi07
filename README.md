@@ -40,8 +40,8 @@
 
 ## 📫 Let's connect
 
-* 💼 LinkedIn: add your LinkedIn URL
-* ✉️ Email: add your email
+* 💼 LinkedIn: https://www.linkedin.com/in/aayurshigawande-1a6743254
+* ✉️ Email: aayurshi07@gmail.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aayurshi07&label=Profile+Views&color=FF6FA5&style=flat" alt="profile views" />
