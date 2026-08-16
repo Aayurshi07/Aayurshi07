@@ -3,7 +3,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=FF4D8D&center=true&vCenter=true&width=500&height=70&repeat=false&lines=Hi%2C+I'm+Aayurshi+%F0%9F%8C%B8" alt="Aayurshi Arvind Gawande" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=FF4D8D&center=true&vCenter=true&width=750&height=70&repeat=false&lines=Hi%2C+I%27m+Aayurshi+Arvind+Gawande+%F0%9F%8C%B8" alt="Aayurshi Arvind Gawande" />
 </p>
 
 <p align="center">
@@ -40,8 +40,8 @@
 
 ## 📫 Let's connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/aayurshigawande-1a6743254
-* ✉️ Email: aayurshigawande@gmail.com
+* 💼 LinkedIn: add your LinkedIn URL
+* ✉️ Email: add your email
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aayurshi07&label=Profile+Views&color=FF6FA5&style=flat" alt="profile views" />
