@@ -3,7 +3,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=FF4D8D&center=true&vCenter=true&width=500&height=70&repeat=false&lines=Hi%2C+I'm+Aayurshi+%F0%9F%8C%B8" alt="Aayurshi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=FF4D8D&center=true&vCenter=true&width=500&height=70&repeat=false&lines=Hi%2C+I'm+Aayurshi+%F0%9F%8C%B8" alt="Aayurshi Arvind Gawande" />
 </p>
 
 <p align="center">
