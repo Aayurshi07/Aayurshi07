@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A66C2,50:5B3FD6,100:7F52FF&text=Aayurshi%20Gawande&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Data%20Analytics%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20Product%20%E2%80%A2%20GenAI&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Aayurshi Gawande"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=5B3FD6&center=true&vCenter=true&width=700&lines=Final-Year+EXTC+Engineering+Student+%7C+Class+of+2027;I+turn+raw+data+into+decisions+and+ideas+into+products;Forecasting+%E2%80%A2+ML+%E2%80%A2+Power+BI+%E2%80%A2+NLP+%E2%80%A2+Streamlit+%E2%80%A2+Android" alt="Typing animation"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=5B3FD6&center=true&vCenter=true&width=700&lines=Final-Year+EXTC+Engineering+Student;I+turn+raw+data+into+decisions+and+ideas+into+products;Forecasting+%E2%80%A2+ML+%E2%80%A2+Power+BI+%E2%80%A2+NLP+%E2%80%A2+Streamlit+%E2%80%A2+Android" alt="Typing animation"/></a>
 
 <br/><br/>
 
