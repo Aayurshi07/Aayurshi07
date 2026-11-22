@@ -16,7 +16,7 @@
 
 ## About me
 
-I'm a final-year B.E. student in Electronics and Telecommunication Engineering at St. Francis Institute of Technology, Mumbai (batch of 2027).
+I'm a final-year B.E. student in Electronics and Telecommunication Engineering at St. Francis Institute of Technology, Mumbai.
 
 I like taking messy data and turning it into something a person can act on. Most of my projects are on retail and customer data, and I'm now moving into building apps and backends around that, like a search tool over PDFs using embeddings and an LLM.
 
