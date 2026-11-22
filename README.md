@@ -20,7 +20,7 @@ I'm a final-year B.E. student in Electronics and Telecommunication Engineering a
 
 I like taking messy data and turning it into something a person can act on. Most of my projects are on retail and customer data, and I'm now moving into building apps and backends around that, like a search tool over PDFs using embeddings and an LLM.
 
-I'm looking for internships and fresher roles in data analytics, full stack development and product.
+I'm looking for internships and fresher roles.
 
 ---
 
