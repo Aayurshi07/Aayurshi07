@@ -30,6 +30,10 @@ I'm looking for internships and fresher roles in data analytics, full stack deve
 A RAG pipeline. PDFs are split into chunks, embedded with Gemini, stored in SQLite and searched by cosine similarity. The top 3 chunks go to Gemini, which answers from them. Served through a FastAPI backend with /search and /ask endpoints. I'm now measuring retrieval quality with a 15-question test set (Recall@3). Python, FastAPI, Gemini API, SQLite, NumPy.
 [View repo](https://github.com/Aayurshi07/notesseek)
 
+**Autonomous AI Data Analyst**
+Ask questions about e-commerce data in plain English. Gemini writes the SQL, the code checks it is safe and runs it, and if it fails the error goes back to Gemini to fix. It also flags unusual revenue days with Z-scores and writes a summary. It picked out Black Friday 2017 as the biggest spike without being told about holidays. Live on Streamlit. Python, Gemini API, SQLite, Streamlit, GitHub Actions.
+[View repo](https://github.com/Aayurshi07/autonomous-ai-data-analyst)
+
 **Sales Forecasting with Prophet**
 Forecast weekly revenue for a UK online retailer. Tuning the trend setting brought the error down from 28.0% to 9.4% MAPE, and I wrote down why one year of data limits the model. Power BI dashboard on top.
 [View repo](https://github.com/Aayurshi07/sales-forecasting-prophet)
@@ -71,7 +75,7 @@ A live Streamlit app with a DistilBERT sentiment predictor, a dashboard of senti
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/Prophet-0A66C2?style=for-the-badge&logo=meta&logoColor=white" alt="Prophet"/>
 
-Logistic Regression, K-Means, RFM analysis, time-series forecasting, hyperparameter tuning, class imbalance, MAE / RMSE / MAPE
+Logistic Regression, K-Means, RFM analysis, time-series forecasting, anomaly detection (Z-score), hyperparameter tuning, class imbalance, MAE / RMSE / MAPE
 
 **GenAI and backend**
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
@@ -79,7 +83,7 @@ Logistic Regression, K-Means, RFM analysis, time-series forecasting, hyperparame
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="DistilBERT"/>
 
-RAG pipelines, text embeddings, cosine similarity search, REST APIs, retrieval evaluation (Recall@k), sentiment analysis
+RAG pipelines, text embeddings, cosine similarity search, text-to-SQL, REST APIs, retrieval evaluation (Recall@k), sentiment analysis
 
 **Apps**
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
