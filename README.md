@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:0A66C2,50:5B3FD6,100:7F52FF&text=Aayurshi%20Gawande&fontColor=ffffff&fontSize=50&fontAlignY=50&desc=Data%20Analytics%20%7C%20Full%20Stack%20%7C%20Product%20%7C%20GenAI&descSize=18&descAlignY=72" width="100%" alt="Hi I am Aayurshi Gawande"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:0A66C2,50:5B3FD6,100:7F52FF&text=Aayurshi%20Gawande&fontColor=ffffff&fontSize=50&fontAlignY=50&desc=Data%20Analytics%20%7C%20Full%20Stack%20%7C%20Product%20%7C%20GenAI&descSize=18&descAlignY=72" width="100%" alt=" Aayurshi Gawande"/>
 
 <a href="https://www.linkedin.com/in/aayurshigawande-1a6743254"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:aayurshigawande@student.sfit.ac.in"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
